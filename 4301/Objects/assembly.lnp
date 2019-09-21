@@ -1,0 +1,3 @@
+".\Objects\ASSE.obj" 
+TO ".\Objects\assembly" 
+PRINT(".\Listings\assembly.m51") RAMSIZE(256) 
